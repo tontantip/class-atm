@@ -28,7 +28,14 @@ OOP is coding concept view every thing in program are object each object include
 5. Pay bills.
 
 ### Code
-1. [Code: class ATM](Python code/Code: class ATM.py)
+* [Code: class ATM](Python_code/Code_class_ATM.py)
+
+### How to use calss ATM.
+1. [Open account: ATM()](Python_code/Open_account)
+2. [Deposit: deposit(self, money)](Python_code/Deposit)
+3. [Transfer money: transfer(self, name, money)](Python_code/Transfer_money)]
+4. [Deposit money: deposit(self, money)](Python_code/Deposit_money)
+5. [Pay bill: pay_bill(self, serial, money)](Python_code/Pay_bill)
 
 
 
